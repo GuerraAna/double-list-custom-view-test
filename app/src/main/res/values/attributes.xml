@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <declare-styleable name="ListCustomView" tools:ignore="ResourceName">
+        <attr name="title" format="string" />
+        <attr name="item_is_loading" format="boolean" />
+    </declare-styleable>
+
+</resources>
